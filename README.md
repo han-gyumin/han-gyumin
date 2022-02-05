@@ -1,7 +1,7 @@
 ### 🤩WOW🤩
 
 ## BOJ(Baekjoon Online Judge) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswo0512ttps://solved.ac/dbswo0512
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswo0512ttps://solved.ac/dbswo0512/)
 
 
 ## My Github Stats 
